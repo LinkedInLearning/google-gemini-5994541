@@ -1,6 +1,6 @@
-# Google Gemini : Niveau avancé
+# L'API Gemini avec des requêtes REST : Niveau avancé
 
-Ce dossier Repository est lié au cours `Google Gemini : Niveau avancé`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'API Gemini avec des requêtes REST : Niveau avancé`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
