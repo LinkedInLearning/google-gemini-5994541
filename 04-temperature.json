@@ -1,0 +1,15 @@
+{
+       
+    "contents":{
+        "parts":[
+            {
+                "text":"Raconte-moi une histoire sur le café et le chocolat"
+            }
+        ]
+    },
+     "generationConfig": {
+        "temperature": 0.2       
+                 
+        
+    }
+}

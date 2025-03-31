@@ -1,0 +1,13 @@
+{
+       
+    "contents":{
+        "parts":[
+            {
+                "text":"Explique-moi la mécanique quantique"
+            }
+        ]
+    },
+     "generationConfig": {
+        "candidateCount":4
+    }
+}

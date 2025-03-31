@@ -1,0 +1,45 @@
+{
+    "contents": {
+        "parts": [
+            {
+                "text": "Raconte moi une histoire sur les voitures avec 200 mots"
+            }
+        ]
+    },
+  
+    "tools": [
+        {
+            "functionDeclarations": [
+                {
+                    "name": "get_coffee_and_chocolate_story",
+                    "description": "Génère une histoire sur le café et le chocolat",
+                    "parameters": {
+                        "type": "object",
+                        "properties": {
+                            "length": {
+                                "type": "integer",
+                                "description": "Longueur souhaitée de l'histoire en mots"
+                            }
+                        },
+                        "required": ["length"]
+                    }
+                },{
+                    "name": "get_any_other_story",
+                    "description": "Génère une histoire sur d'autres sujets que le café et le chocolat",
+                    "parameters": {
+                        "type": "object",
+                        "properties": {
+                            "length": {
+                                "type": "integer",
+                                "description": "Longueur souhaitée de l'histoire en mots"
+                            }
+                        },
+                        "required": ["length"]
+                    }
+               } 
+            ]
+        }  
+        
+    ]
+}
+ 

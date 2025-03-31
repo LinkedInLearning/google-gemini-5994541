@@ -1,0 +1,15 @@
+{
+       
+    "contents":{
+        "parts":[
+            {
+                "text":"Raconte-moi une histoire sur le café et le chocolat"
+            }
+        ]
+    },
+     "safetySettings": {
+        "category":"HARM_CATEGORY_DANGEROUS_CONTENT",
+        "threshold":"BLOCK_NONE"
+        
+    }
+}
