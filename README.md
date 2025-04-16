@@ -11,7 +11,7 @@ Google Gemini est une IA multimodale de pointe développée par Google DeepMind,
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin d'installer Postman en local sur votre machine ou utiliser directement la version web
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
-3. Copiez&collez les requêtes des fichiers "json" dans la section "body" des requêtes Postman
+3. Copiez et collez les requêtes des fichiers Json" dans la section Body des requêtes Postman
 
 
 ### Formateur
