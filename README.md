@@ -6,7 +6,8 @@ Ce dossier Repository est lié au cours `L'API Gemini avec des requêtes REST : 
 
 Google Gemini est une IA multimodale de pointe développée par Google DeepMind, capable d’analyser et de générer du texte, des images, de l’audio et des vidéos avec une précision inégalée. Cette formation approfondie vous permettra de comprendre son architecture, ses performances et ses principales applications. Vous apprendrez à exploiter Gemini pour la génération de contenu, l’extraction d’informations et l’automatisation de tâches, ainsi qu’à intégrer et personnaliser son API. Animée par Madjid Khichane, ce cours vous aidera à maîtriser pleinement les capacités avancées de Gemini.
 
- 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin d'installer Postman en local sur votre machine ou utiliser directement la version web
